@@ -1,0 +1,77 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image: url("https://wallpaperaccess.com/full/333537.jpg");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title {
+    color: rgb(44, 179, 3);
+    margin: 0 0 5px 0;
+  }
+  
+  .page-subtitle {
+    color: black;
+    margin-top: 5px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  body > img {
+    margin: 0 10px;
+  }
+  
+  img {
+    max-height: 250px;
+  }
+  p {
+    font: normal 20pt Roboto Mono;
+    color: black;
+  }
+  #real {
+    width: 300px;
+    height: 30px;
+    font-size: 20pt;
+    border-radius: 10px;
+}
+#moedas {
+    color: black;
+    font-size: 16pt;
+    padding: 10px;
+}
+#botao {
+    width: 150px;
+    height: 30px;
+    margin: 30px;
+    font-size: 16pt;
+    border-radius: 10px;
+    cursor: pointer;
+    
+    
+}
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.349);
+}
+h1 {
+    font-size: 25pt;
+    color: black;
+}

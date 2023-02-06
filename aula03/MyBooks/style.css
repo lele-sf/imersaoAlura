@@ -1,0 +1,64 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image: url("https://wallpapers.com/images/hd/brown-aesthetic-bookshelves-laptop-31shaq7z6tos6z62.jpg");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  body > img {
+    margin: 0 10px;
+  }
+  
+  img {
+    max-height: 250px;
+  }
+  .nomes {
+    color: #ffffff;
+    font-size: 20px;
+  }
+  .livro {
+    display: inline-block;
+    margin: 20px;
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+    padding: 10px;
+
+  }
+ p {
+    font-size: 18px;
+    color: #ffffff;
+ }
+#botao {
+    cursor: pointer;
+    font: bold 15px "Roboto Mono", monospace;
+}

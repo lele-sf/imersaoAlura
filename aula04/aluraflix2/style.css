@@ -1,0 +1,87 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p3/2217896-cinema-wallpaper-social-media-message-vector-background-vetor.jpg");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 30px 0 0 0;
+    
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  #listaFilmes img {
+    margin: 10px;
+    max-height: 250px;
+  }
+  
+  .form-wrapper {
+    margin: 0 0 15px;
+  }
+  
+  .form-wrapper input {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 15px;
+  }
+  
+  .form-wrapper button {
+    border: 0;
+    color: #ffffff;
+    background: #da1e26;
+    font-weight: bold;
+    padding: 15px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .form-wrapper button:hover {
+    opacity: 0.8;
+  }
+  p {
+    color: #ffffff;
+    font-size: 20px;
+  }
+  .filme {
+    display: inline-block;
+    margin: 20px;
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .filme img {
+    width: 200px;
+    height: 300px;
+    border-radius: 5px;
+  }
